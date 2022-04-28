@@ -1,0 +1,11 @@
+Inheritance obyekt yönümlü proqramlaşdırmanın əsas atributlarından biridir. 
+
+Inheritance, in C#, is the ability to create a class that inherits attributes and behaviors from an existing class.
+The newly created class is the derived (or child) class and the existing class is the base (or parent) class. 
+Inheritance is one of the key features of object-oriented programming.
+
+(Melumatlar ingilis dilinde oldugunan youtube explonationara baxdim)
+https://youtu.be/EiBCF7rYRtI
+
+cox ela izah edilir.
+Elave olaraq png shekiller var

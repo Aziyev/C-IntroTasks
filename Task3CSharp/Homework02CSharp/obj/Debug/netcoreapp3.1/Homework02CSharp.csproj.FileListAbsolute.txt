@@ -1,0 +1,4 @@
+C:\Users\aziye\Desktop\Development\P129\2.C#\Homeworks\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziye\Desktop\Development\P129\2.C#\Homeworks\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.AssemblyInfoInputs.cache
+C:\Users\aziye\Desktop\Development\P129\2.C#\Homeworks\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.AssemblyInfo.cs
+C:\Users\aziye\Desktop\Development\P129\2.C#\Homeworks\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.csproj.CoreCompileInputs.cache

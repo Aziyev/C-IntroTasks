@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6aaf4059-7a53-43da-bf4a-ffdc16e70481": {
+      "ProjectGuid": "6aaf4059-7a53-43da-bf4a-ffdc16e70481",
+      "DisplayName": "homeworkss",
+      "ColorIndex": 0
+    },
+    "efecde11-8983-4216-b276-0af7b83056f2": {
+      "ProjectGuid": "efecde11-8983-4216-b276-0af7b83056f2",
+      "DisplayName": "homewworkss2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

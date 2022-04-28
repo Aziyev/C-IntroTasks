@@ -1,0 +1,8 @@
+Polymorphism is one of the core concepts of object-oriented programming (OOP) 
+and describes situations in which something occurs in several different forms. 
+In computer science, it describes the concept that 
+you can access objects of different types through the same interface
+
+Ingilis dilinde arasdirdim, hamisini qeyd etmedim cunki videodan isdifade etdim:
+cox ela videodu:
+https://youtu.be/nYCMW3kfTvs

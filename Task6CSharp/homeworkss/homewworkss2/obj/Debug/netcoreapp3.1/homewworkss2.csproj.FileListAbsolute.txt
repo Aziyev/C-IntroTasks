@@ -1,0 +1,13 @@
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\bin\Debug\netcoreapp3.1\homewworkss2.exe
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\bin\Debug\netcoreapp3.1\homewworkss2.deps.json
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\bin\Debug\netcoreapp3.1\homewworkss2.runtimeconfig.json
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\bin\Debug\netcoreapp3.1\homewworkss2.runtimeconfig.dev.json
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\bin\Debug\netcoreapp3.1\homewworkss2.dll
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\bin\Debug\netcoreapp3.1\homewworkss2.pdb
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\obj\Debug\netcoreapp3.1\homewworkss2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\obj\Debug\netcoreapp3.1\homewworkss2.AssemblyInfoInputs.cache
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\obj\Debug\netcoreapp3.1\homewworkss2.AssemblyInfo.cs
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\obj\Debug\netcoreapp3.1\homewworkss2.csproj.CoreCompileInputs.cache
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\obj\Debug\netcoreapp3.1\homewworkss2.dll
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\obj\Debug\netcoreapp3.1\homewworkss2.pdb
+C:\Users\aziye\Desktop\Development\P129\2.C#\homeworkss\homewworkss2\obj\Debug\netcoreapp3.1\homewworkss2.genruntimeconfig.cache
